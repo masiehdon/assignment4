@@ -1,0 +1,8 @@
+body {
+  background-color: black;
+}
+
+.btn-primary{
+  background-color: rgb(159, 175, 218);
+  color: rgba(2, 2, 2, 0.705)
+}
